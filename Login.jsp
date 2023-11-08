@@ -25,7 +25,7 @@ pageEncoding="UTF-8"%>
 	alert("Please enter password");
 	document.myForm.password.focus();
 	return false;
-}
+}Aleklol321!
 else if((password.length<6) || password.length>16)){
 	alert("Password is too short/long.");
 	document.myForm.password.focus();
